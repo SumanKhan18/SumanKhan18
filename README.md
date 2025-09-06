@@ -6,7 +6,7 @@
 I am a **Computer Science & Engineering student** with strong interests in **Blockchain, Artificial Intelligence, IoT, and Software Development**.  
 I enjoy solving problems, building innovative projects, and constantly learning new technologies.  
 
-- 🎓 5th Semester, B.Tech in CSE  
+- 🎓 7th Semester, B.Tech in CSE  
 - 🔭 Currently working on: **AI + IoT-based Crop Disease Detection & Soil Suitability Analysis**  
 - 🌱 Exploring: **Blockchain (Aptos & Move), Machine Learning, Cloud Computing**  
 - 💡 Passionate about: **Hackathons, Research, and Real-world Problem Solving**  
